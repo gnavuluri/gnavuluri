@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @gnavuluri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gnavuluri/gnavuluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<HTML>
+       <title>
+              My app coding class 1
+       </title>
+       <body>
+         this is my first app
+         This the demo of the editing of file
+      </body>
+</HTML>
